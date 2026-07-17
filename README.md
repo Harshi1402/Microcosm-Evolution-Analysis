@@ -2,7 +2,7 @@
 
 This repository contains R scripts used to analyse evolutionary dynamics in experimental fly microcosms across 2500 generations. The dataset includes functional traits, morphological traits, semi‑cryptic traits, and 20 neutral genetic markers.
 
-Raw data is NOT included for ethical reasons. Only scripts and documentation are provided.
+Raw data is **NOT** included for ethical reasons. Only scripts and documentation are provided.
 
 ## Analyses Included
 
