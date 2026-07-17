@@ -4,7 +4,7 @@ This repository contains R scripts used to analyse evolutionary dynamics in expe
 
 Raw data is NOT included for ethical reasons. Only scripts and documentation are provided.
 
-## 🔬 Analyses Included
+## Analyses Included
 
 ### 1. NMDS (Non‑metric Multidimensional Scaling)
 - Manhattan distance on genetic markers (gm1–gm20)
@@ -21,7 +21,7 @@ Raw data is NOT included for ethical reasons. Only scripts and documentation are
 - Allele frequency calculations
 - First fixed/lost marker identification
 
-## 📁 Repository Structure
+## Repository Structure
 
 Microcosm-Evolution-Analysis/
 │
@@ -38,7 +38,7 @@ Microcosm-Evolution-Analysis/
 └── data/
     └── README_data_structure.md   (no raw data included)
 
-## 📜 Scripts Included
+## Scripts Included
 
 - **NMDS_stress_analysis.R** — Calculates NMDS stress values across generations to detect temperature gradient changes.
 - **NMDS_population_structure.R** — Performs NMDS ordination and visualises population divergence using Manhattan distances.
@@ -47,14 +47,14 @@ Microcosm-Evolution-Analysis/
 - **marker_fixation_loss_core.R** — Checks fixation or loss of key markers (gm1 and gm20) at specific generations.
 - **marker_fixation_over_time.R** — Identifies the first generation where any marker becomes fixed or lost.
 
-## 🛠 Tools Used
+## Tools Used
 
 - **R**
 - **vegan** (NMDS ordination)
 - **ggplot2** (visualisation)
 - **dplyr** (data manipulation)
 
-## 👩‍🔬 Author
+## Author
 
 **Harshita Khot**  
 Bioinformatics Graduate — UWA  
